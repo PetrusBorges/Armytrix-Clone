@@ -1,0 +1,247 @@
+//ABAIXO DO HEADER
+.container-01 {
+  &.carrosel01 {
+    background-image: url(/img/cbg01.jpg);
+  }
+  
+  &.carrosel02 {
+    background-image: url(/img/cbg02.jpg);
+  }
+  
+  &.carrosel03 {
+    background-image: url(/img/cbg03.jpg);
+  }
+}
+
+.container-01 {
+  min-height: 92vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.overViewPosition {
+  font-family: Oswald, sans-serif;
+  text-align: center;
+  color: white;
+  margin-top: 700px;
+
+  button {
+    background-color: rgba(0,0,0,0.5);
+    padding: 10px 18px;
+    border: 1px solid white;
+
+    &:hover {
+      transition: all 300ms ease;
+      background-color: $--green;
+      border: 1px solid $--green;
+    }
+  }
+}
+
+.footerContainer-01 {
+  font-family: Oswald, sans-serif;
+  height: 8vh;
+  font-size: 18px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid rgb(168, 165, 165);
+
+  .title {
+    width: 180px;
+    color: black;
+    cursor: pointer;
+
+    &:hover {
+      transition: all 300ms ease;
+      color: $--green;
+    }
+  }
+}
+
+
+//OUTRAS PARTES DO SITE
+.container01 {
+  font-family: Oswald, sans-serif;
+
+  .carCard {
+
+    img {
+      width: 100%;
+      height: 300px;
+      object-fit: cover;
+    }
+  }
+  
+  p {
+    color: rgb(190, 188, 188);
+
+    span {
+      color: black;
+      font-weight: bold;
+    }
+  }
+  
+  button {
+    background-color: black;
+    padding: 10px 18px;
+    border: 1px solid white;
+
+    &:hover {
+      transition: all 300ms ease;
+      background-color: $--green;
+      border: 1px solid $--green;
+    }
+  }
+}
+
+.container00 {
+  &.container02 {
+    background-image: url(/img/bg05.jpg);
+  }
+
+  &.container03 {
+    background-image: url(/img/bg06.jpg);
+  }
+
+  &.container04 {
+    background-image: url(/img/bg07.jpg);
+  }
+  
+}
+
+.overViewButton {
+  font-family: Oswald, sans-serif;
+  padding-top: 800px;
+  color: white;
+
+  button {
+    background-color: rgba(0,0,0,0.5);
+    padding: 10px 18px;
+    border: 1px solid white;
+
+    &:hover {
+      transition: all 300ms ease;
+      background-color: $--green;
+      border: 1px solid $--green;
+    }
+  }
+}
+
+.container05 {
+  font-family: Oswald, sans-serif;
+}
+
+.container06 {
+  background-image: url(/img/bg08.jpg);
+  min-height: 50vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+  .overViewButton01 {
+    font-family: Oswald, sans-serif;
+    color: white;
+    padding-top: 220px;
+
+
+
+    button {
+      background-color: rgba(0,0,0,0.5);
+      padding: 10px 18px;
+      border: 1px solid white;
+  
+      &:hover {
+        transition: all 300ms ease;
+        background-color: $--green;
+        border: 1px solid $--green;
+      }
+    }
+  }
+}
+
+.container07 {
+  font-family: Oswald, sans-serif;
+  font-size: 18px;
+  
+  i {
+    font-size: 25px;
+    color: $--green;
+
+    &:hover {
+      transition: all 300ms ease;
+    color: black;
+  }
+}
+
+  .social {
+    font-size: 15px;
+  }
+}
+
+.container08 {
+  font-family: Oswald, sans-serif;
+  font-size: 18px;
+  color: white;
+  background-color: black;
+  margin-top: 20px;
+}
+
+// Media query
+
+@media (max-width: 1500px) {
+  .overViewPosition {
+    margin-top: 600px;
+  }
+}
+
+@media (max-width: 950px) {
+  .overViewButton {
+    padding-top: 750px;
+  }
+}
+
+@media (max-width: 750px) {
+  .container08 {
+    img {
+      width: 100%;
+    }
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 650px) {
+  .container01 {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 575px) {
+  .container08 {
+    img {
+      width: 50%;
+    }
+  }
+}
+
+@media (max-width: 465px) {
+  .footerContainer-01 {
+    font-size: 15px;
+
+    .title {
+      width: 100px;
+    }
+  }
+}
+
+@media (max-width: 300px) {
+  .footerContainer-01 {
+    font-size: 15px;
+
+    .title {
+      width: 70px;
+    }
+  }
+}
