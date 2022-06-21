@@ -236,6 +236,16 @@
   }
 }
 
+@media (max-width: 365px) {
+  .overViewPosition {
+    margin-top: 400px;
+  }
+
+  .overViewButton {
+    padding-top: 500px;
+  }
+}
+
 @media (max-width: 300px) {
   .footerContainer-01 {
     font-size: 15px;

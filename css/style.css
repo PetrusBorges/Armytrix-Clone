@@ -13,7 +13,7 @@
 }
 .header nav {
   border-bottom: 1px solid rgb(110, 109, 109);
-  backdrop-filter: blur(0.5rem);
+  backdrop-filter: blur(0.25rem);
 }
 .header nav .logo {
   width: 195px;
@@ -221,6 +221,14 @@ body {
   }
   .footerContainer-01 .title {
     width: 100px;
+  }
+}
+@media (max-width: 365px) {
+  .overViewPosition {
+    margin-top: 400px;
+  }
+  .overViewButton {
+    padding-top: 500px;
   }
 }
 @media (max-width: 300px) {
