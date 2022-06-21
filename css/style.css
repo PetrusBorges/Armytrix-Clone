@@ -222,6 +222,9 @@ body {
   .footerContainer-01 .title {
     width: 100px;
   }
+  .footerContainer-01 .carExhaust {
+    padding-top: 14px;
+  }
 }
 @media (max-width: 380px) {
   .overViewPosition {
