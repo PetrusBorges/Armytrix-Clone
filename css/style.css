@@ -223,7 +223,7 @@ body {
     width: 100px;
   }
 }
-@media (max-width: 365px) {
+@media (max-width: 380px) {
   .overViewPosition {
     margin-top: 400px;
   }
