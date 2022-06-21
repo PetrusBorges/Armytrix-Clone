@@ -1,4 +1,4 @@
-# Programador Full Stack JavaScript PRO 🤘
+# Armytrix - Clone 🤘
 
 Repositório criado exclusivamente para treinar boas práticas em HTML5 + CSS3 + SASS + BOOTSTRAP adquiridas no curso Full Stack JavaScript PRO.
 
