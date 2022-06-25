@@ -4,7 +4,7 @@ Repositório criado exclusivamente para treinar boas práticas em HTML5 + CSS3 +
 
 [Petrus Borges - Armytrix - Clone](https://petrusborges-armytrix-clone.netlify.app)
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/105453766/175792362-5f2c4fb8-63bc-44ad-ac0a-f2b76cc10ae1.gif)
+![image](https://user-images.githubusercontent.com/105453766/175792425-a522510e-6053-4ebf-a392-920228b732ae.png)
 
 ## 📋 Projeto
 
