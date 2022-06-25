@@ -2,6 +2,8 @@
 
 Repositório criado exclusivamente para treinar boas práticas em HTML5 + CSS3 + SASS + BOOTSTRAP adquiridas no curso Full Stack JavaScript PRO.
 
+[Petrus Borges - Armytrix - Clone](https://petrusborges-armytrix-clone.netlify.app)
+
 ## 📋 Projeto
 
 Os conteúdos presentes neste repositório é resultado de participação do curso intensivo de JavaScript para formação Full Stack na [OneBitCode](https://programador.onebitcode.com/?ref=C54036552P&gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiNSdBfAhhOEso2OMEo-fPo9DxKOc8b87FOsZOL5kuMRGI1XjV1EaXQaAtX3EALw_wcB) 🤘.
